@@ -1,6 +1,5 @@
  - 👋 Hi, I'm Mark.
  - 👨‍💻 I'm an aspiring software engineer.
- - 🤔 I'm mostly interested in Software Development.
  - :book: I’m just an average developer with deep interest towards technology. I always strive to learn new technologies that can enhance my skills as a developer.
  - 👯 I’m open for any opportunities if you wish to include me in your project. 
  - 📫 You can reach me thru my work mail: rosariomark37@gmail.com
