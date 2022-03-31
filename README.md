@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=D2582E&center=true&vCenter=true&width=600&lines=Welcome+to+Mark's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3500&color=D2582E&vCenter=true&width=720&height=60&lines=Welcome+to+Mark's+Github+Profile)](https://git.io/typing-svg)
 
 ### A few things about me
  - 👋 Hi, I'm Mark.
