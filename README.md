@@ -4,7 +4,7 @@
  - 👋 Hi, I'm Mark.
  - 👨‍💻 I'm an aspiring software engineer.
  - 🏠 I live in Laguna, Philippines
- - :book: I’m just an average developer with deep interest towards technology. I love to learn and explore. Always striving to learn new technologies that can further enhance my skills as a developer. 
+ - :book: I’m just an average developer with passion towards technology. I love to learn and explore, always striving to learn and explore new technologies that can further enhance my skills as a developer.
  - 👯 I’m open for any opportunities if you wish to include me in your project. 
 
 ## 📫  How to reach me?
