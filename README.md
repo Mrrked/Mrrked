@@ -10,7 +10,7 @@
 ## 📫  How to reach me?
  - 🌐 Portfolio: [https://markrosario.vercel.app/ ](https://markrosario.vercel.app/)
  - ✉️ Email: rosariomark37@gmail.com
- - 🤵 LinkedIn: [Mark Edison Rosario ](https://www.linkedin.com/in/rosario-mark/)
+ - 🤵 LinkedIn: [Mark Edison Rosario ](https://www.linkedin.com/in/rosariomark/)
 
 ## 📈GitHub Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYious&layout=compact&theme=radical" /></p>
