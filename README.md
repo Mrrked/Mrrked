@@ -13,5 +13,5 @@
  - 🤵 LinkedIn: [Mark Edison Rosario ](https://www.linkedin.com/in/rosariomark/)
 
 ## 📈GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYious&layout=compact&theme=radical" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrYious&show_icons=true&theme=radical" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrked&layout=compact&theme=radical" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mrrked&show_icons=true&theme=radical" /></p>
